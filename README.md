@@ -23,6 +23,8 @@ https://github.com/user-attachments/assets/9dee1249-d9bf-4075-834c-2ffaab4159b0
 
 On setting the value of time scale at higher values, we lose the accuracy in simulating Mercury's orbit but beautiful patterna, such as those produced by a spirograph, are obtained.
 
+**Note** - You need to change the values of the variable time_scale in the given code to render these patterns.
+
 Some such patterns along with their time_scale values are given below:
 
 ### time_scale = 95.0
@@ -30,6 +32,12 @@ Some such patterns along with their time_scale values are given below:
 
 https://github.com/user-attachments/assets/c4b52852-40c7-4c28-9e95-37700f3616df
 
+### time_scale = 101.0
+![time_scale101](https://github.com/user-attachments/assets/01d4f270-ece3-46af-a5ec-f43ca7246426)
+
+
+
+**Hope you discover some more patterns by adjusting the time_scale....**
 
 
 
