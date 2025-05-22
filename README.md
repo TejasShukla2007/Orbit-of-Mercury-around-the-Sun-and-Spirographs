@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/e50bfc00-d5c9-42ed-ae0e-fae2f1abe140
 # Mercury's Orbit around the Sun and Spirographs
 
 In this project, the orbit of Mercury around the Sun is simulated and eventually, spirographs are created using the same code. 
